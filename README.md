@@ -42,3 +42,6 @@ Get latest code at https://github.com/ndeet/unzipper
 
 ## Credits   
 [See contributors on Github](https://github.com/ndeet/unzipper/graphs/contributors)  
+
+## Documentations
+Warning: I don't want to steal other people's work, but I only want to share tools for school purposes. It's not my intention to steal someone's work.
